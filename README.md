@@ -1,2 +1,2 @@
-# newdawndoula.github.io
-New Dawn Doula Services
+# newdawndoula.com
+New Dawn Doula Services - Static (Jekyll-Enabled) Website
