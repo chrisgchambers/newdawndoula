@@ -1,2 +1,3 @@
 # newdawndoula.com
-New Dawn Doula Services - Static (Jekyll-Enabled) Website
+Source code for http://newdawndoula.com
+
